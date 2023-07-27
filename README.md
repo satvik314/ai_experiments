@@ -1,1 +1,1 @@
-# langchain
+# Exploring AI projects
